@@ -7,6 +7,8 @@ I can delete this project if authors dont want it to be here. But we really need
 This plugin has copyright:
 Copyright © ITN 2008
 
+# NOTE: This plugin is deprecated, i will upload improved version soon (fixed, based on SimpleCamera V2 Beta)
+
 HERE ARE SIMPLE README TEMPLATE THAT I HAVEN`T FINISHED CHANGING YET (no time atm):
 
 ## Getting Started
